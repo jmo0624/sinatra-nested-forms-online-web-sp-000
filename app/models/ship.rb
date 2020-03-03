@@ -4,5 +4,6 @@ class Ship
   
   SHIPS = []
   
-  def initialize
+  def initialize(args)
+    
 end
